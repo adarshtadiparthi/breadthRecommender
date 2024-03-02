@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from priority_selector import get_priority
 from gpa_order import get_sorted
-from data.NLP.concatinatingprofileswithfinalgrades import f
+# from data.NLP.concatinatingprofileswithfinalgrades import f
 
 # Title
 st.markdown("<h1 style='text-align: center;'>Breadth Suggestor</h1>", unsafe_allow_html=True)
